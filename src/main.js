@@ -6,3 +6,4 @@ let config = {
 }
 
 let game = new Phaser.Game(config);
+//printf("Hello world").
