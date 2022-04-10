@@ -1,3 +1,8 @@
+//ZhiBin Huang
+//1800336
+//CMPM 120 Spring 2022.
+
+
 // Rocket prefab
 class Rocket extends Phaser.GameObjects.Sprite {
     constructor(scene, x, y, texture, frame) {

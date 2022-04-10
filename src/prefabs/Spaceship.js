@@ -1,3 +1,7 @@
+//ZhiBin Huang
+//1800336
+//CMPM 120 Spring 2022.
+
 // Spaceship prefab
 class Spaceship extends Phaser.GameObjects.Sprite {
     constructor(scene, x, y, texture, frame, pointValue) {

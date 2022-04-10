@@ -1,3 +1,7 @@
+//ZhiBin Huang
+//1800336
+//CMPM 120 Spring 2022.
+
 class Menu extends Phaser.Scene {
     constructor() {
         super("menuScene");
