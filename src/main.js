@@ -2,6 +2,7 @@
 //1800336
 //CMPM 120 Spring 2022.
 
+
 let config = {
   type: Phaser.AUTO,
   width: 640,
